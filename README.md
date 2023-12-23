@@ -23,9 +23,16 @@ Haritesh Chauhan</a></h1>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/haritesh-chauhan">
+          	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Haritesh_ChauhanO7">
+           <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+          <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/23146169/haritesh-chauhan?tab=profile>
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+ 
+
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haritesh-Chauhan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Haritesh-Chauhan" /></p>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc/200h.gif" /><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Haritesh_ChauhanO7&show_icons=true&theme=dark&locale=en&layout=compact" alt="Haritesh-Chauhan" /></p>
