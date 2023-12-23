@@ -28,9 +28,8 @@ Haritesh Chauhan</a></h1>
           	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Haritesh_ChauhanO7">
            <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-          <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/23146169/haritesh-chauhan?tab=profile>
+         <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/23146169/haritesh-chauhan?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
- 
 
 <h3>My GitHub Stats</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
